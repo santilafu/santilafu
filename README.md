@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Santiago Lafuente" width="100%">
+</p>
+
 <h1 align="center">👋 ¡Hola! Soy Santi</h1>
-![Uploading Logo y nombre de Santiago Lafuente.png…]()
+
 
 <p align="center">
   💻 <strong>Desarrollador en formación | Estudiante de G.S DAM</strong><br>
