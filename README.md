@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo y nombre de Santiago Lafuente.png" alt="Banner Santiago Lafuente" width="80%">
+  <img src="Logo y nombre de Santiago Lafuente.png" alt="Banner" width="80%" height="180">
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Santi</h1>
