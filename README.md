@@ -1,4 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Santi</h1>
+![Uploading Logo y nombre de Santiago Lafuente.png…]()
 
 <p align="center">
   💻 <strong>Desarrollador en formación | Estudiante de G.S DAM</strong><br>
