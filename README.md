@@ -46,6 +46,11 @@ Mi objetivo es crear proyectos bien estructurados, con código limpio y funciona
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=santilafu&theme=tokyonight&margin-w=10" />
+</p>
+---
+
 
 ### 🌱 Objetivos
 
